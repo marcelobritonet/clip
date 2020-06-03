@@ -13,36 +13,10 @@
 
 _Simples, básico e adaptável_
 
-_Marcelo Brito | [marcelobrito@marcelobrito.net](mailto:marcelobrito@marcelobrito.net)_
+_Marcelo Brito | [@marcelobritonet](https://github.com/marcelobritonet)_
 
 
-```
-O sistema ainda está em versão de testes. Problemas, lacunas e falhas podem ocorrer. Caso queira relatar algum erro, dar alguma dica ou sugestão, não hesite em entrar em contato ou colocar algum comentário.
-```
-
-
-
-```
-Release das Versões:
-
-versão 0.9.3:
-Regras para Evolução do Personagem
-Revisão de Texto e ortografia
-
-versão 0.9.2:
-Nova Perícia Mágica: Ataque Mágico Mental
-Nova Regra: Sanidade
-Nova Regra: Forçar objetos encantados magicamente
-Revisão de Textos
-
-versão 0.9.1:
-Exemplo de Ficha de Personagem
-Modificação de Regra: Cálculo de Pontos de Vida
-Correção de erros ortográfico.
-Revisão de textos explicativos.
-
-versão 0.9: Liberação da versão de teste aberto.
-```
+O sistema ainda em versão de testes. Problemas, lacunas e falhas podem ocorrer. Caso queira relatar algum erro, dar alguma dica ou sugestão, não hesite em entrar em contato ou criar um PR.
 
 
 <h2 id="introdução">Introdução</h2>
