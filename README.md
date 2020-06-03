@@ -7,7 +7,7 @@
 
 <h2>Sistema Clip Versão 0.9.2</h2>
 
-_Simples, básico e adaptável_
+_Um RGP Simples, básico e adaptável_
 
 _Marcelo Brito | [@marcelobritonet](https://github.com/marcelobritonet)_
 
