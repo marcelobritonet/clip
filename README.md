@@ -1,11 +1,4 @@
-<h2>Índice</h2>
-
-[TOC]
-
-<h2></h2>
-
-
-<h2>Sistema Clip Versão 0.9.2</h2>
+<h1>Clip</h1>
 
 _Um RGP Simples, básico e adaptável_
 
