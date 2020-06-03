@@ -74,253 +74,152 @@ Cada jogador receber uma determinada quantidade de **_Pontos de Evolução_** co
 
 Cada um dos **Caminhos**, por sua vez, se subdividem em 3 **Atributos**. Estes **Atributos** definem características mais específicas para o personagem e além disso capacitam o personagem para acessar **Aprimoramentos** e **Perícias**.
 
-É nesse momento que os Pontos de Evolução podem ser “gastos”. Na seção específica existe uma definição detalhada de cada um deles.
+É nesse momento que os Pontos de Evolução podem ser "gastos". Na seção específica existe uma definição detalhada de cada um deles.
 
+|  Caminhos |  Corpo |  Mente | Espírito |
+| ------------ | ------------ | ------------ | ------------ |
+|   |  Força |  Inteligência | Vontade |
+|   |   Destreza |  Percepção | Presença |
+|   |   Físico | Sabedoria  | Fé |
 
-<table>
-  <tr>
-   <td><strong>Caminhos</strong>
-   </td>
-   <td><strong>Corpo</strong>
-   </td>
-   <td><strong>Mente</strong>
-   </td>
-   <td>
-    <strong>Espírito</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Força
-   </td>
-   <td>Inteligência
-   </td>
-   <td>Vontade
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Destreza
-   </td>
-   <td>Percepção
-   </td>
-   <td>Presença
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Físico
-   </td>
-   <td>Sabedoria
-   </td>
-   <td>Fé
-   </td>
-  </tr>
-</table>
-
-
-<h4 id="aprimoramentos">Aprimoramentos</h4>
-
+####Aprimoramentos
 
 Cada **Atributo** permite acessar seus próprios **Aprimoramentos**. Esses Aprimoramentos aperfeiçoam e capacitam o personagem a realizar ações mais específicas no jogo.
 
-O nível num Aprimoramento jamais pode superar o nível do Atributo-pai.
+> O nível num Aprimoramento jamais pode superar o nível do Atributo-pai.
 
-<h4 id="resumo-do-caminho-de-evolução">Resumo do Caminho de Evolução</h4>
+####Resumo do Caminho de Evolução
 
+| Caminho do Corpo  |   Caminho da Mente |  Caminho do Espírito  |
+| ------------ | ------------ | ------------ |
+| Atributo Força  | Atributo Inteligência  |  Atributo Vontade |
+|  - Ataque Corporal |   |   |
+|  - Arremesso |   |   |
+|  - Manipulação de Peso | | | |
 
+| Caminho do Corpo  |   Caminho da Mente |  Caminho do Espírito  |
+| ------------ | ------------ | ------------ |
+|  Atributo Destreza | Atributo Percepção  | Atributo Presença  |
+|  - Agilidade |   | - Empatia/Carisma  |
+|  - Precisão |   |  - Intimidação |
+|  - Reflexo |   |  - Liderança |
 
-<table>
-  <tr>
-   <td>
-<h4 id="caminho-do-corpo">Caminho do Corpo</h4>
+| Caminho do Corpo  |   Caminho da Mente |  Caminho do Espírito  |
+| ------------ | ------------ | ------------ |
+| Atributo Físico | Atributo Sabedoria | Atributo Fé |
+|  - Resistência |   |   |
+|  - Saúde |   |   |
+|  - Aparência |   |   |  |
 
+####Limitações para o Caminho de Evolução do Personagem
 
-   </td>
-   <td>
-<h4 id="caminho-da-mente">Caminho da Mente</h4>
+> O nível de uma Aprimoramento jamais pode superar o nível do Atributo-pai.
 
+> O nível de uma Perícia jamais pode superar o nível do Atributo-pai.
 
-   </td>
-   <td>
-<h4 id="caminho-do-espírito">Caminho do Espírito</h4>
+####Definição dos Atributos
 
+#####Corpo
 
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Atributo Força</strong>
-   </td>
-   <td><strong>Atributo Inteligência</strong>
-   </td>
-   <td><strong>Atributo Vontade</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Ataque Corporal
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Arremesso
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Manipulação de Peso
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Atributo Destreza</strong>
-   </td>
-   <td><strong>Atributo Percepção</strong>
-   </td>
-   <td><strong>Atributo Presença</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Agilidade
-   </td>
-   <td>
-   </td>
-   <td>Empatia
-   </td>
-  </tr>
-  <tr>
-   <td>Precisão
-   </td>
-   <td>
-   </td>
-   <td>Intimidação
-   </td>
-  </tr>
-  <tr>
-   <td>Reflexo
-   </td>
-   <td>
-   </td>
-   <td>Liderança
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Atributo Físico</strong>
-   </td>
-   <td><strong>Atributo Sabedoria</strong>
-   </td>
-   <td><strong>Atributo Fé</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Resistência
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Saúde
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Aparência
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+######Força
 
+* Ataque corporal
 
-<h4 id="limitações-para-o-caminho-de-evolução-do-personagem">Limitações para o Caminho de Evolução do Personagem</h4>
+Aprimora ataque e dano físico infringido por armas de corpo-a-corpo.
 
+> Cada nível em ataque corporal adiciona +1 ao Valor de Ataque quando este for feito à curta distância.
 
+* Arremesso
 
+Aprimora o attaque e dano físico causado por armas de longo alcançe (lança, martelo, machado, adagas, etc).
 
-*   O nível de uma Aprimoramento jamais pode superar o nível do Atributo-pai.
-*   O nível de uma Perícia jamais pode superar o nível do Atributo-pai.
+> Cada nível de Arremesso adiciona +1 ao Valor de Ataque quando este for feito à longa distância.
 
-<h4 id="definição-dos-atributos">Definição dos Atributos</h4>
+* Manipulação de Peso
 
+Suporta uma maior quantidade de armas, armadures, pertences e ítens.
 
+> Cada nível em Manipulação de Peso permite ao personagem utilizar armas 1 nível a mais que o permitido.
 
-**Corpo**
+######Destreza
 
+*   Agilidade
 
+Mover-se com rapidez.
 
-*   Força
-    *   Ataque corporal  \
-_Aprimora ataque e dano físico infringido por armas de corpo-a-corpo. \
-Cada nível em ataque corporal adiciona +1 ao Valor de Ataque quando este for feito à curta distância.._
-    *   Arremesso \
-_Aprimora o attaque e dano físico causado por armas de longo alcançe (lança, martelo, machado, adagas, etc)._
-    *   _Cada nível de Arremesso adiciona +1 ao Valor de Ataque quando este for feito à longa distância._
-    *   Manipulação de Peso \
-_Suporta uma maior quantidade de armas, armadures, pertences e ítens. \
-Cada nível em Manipulação de Peso permite ao personagem utilizar armas 1 nível a mais que o permitido._
-*   Destreza
-    *   Agilidade \
-_Mover-se com rapidez. \
-Cada nível nesta aprimoramento dá um modificador +1 no Valor de Ataque à curta distância._
-    *   Precisão _mira apurada para arremessar objetos, laçar e mirar armas \
-Cada nível nesta aprimoramento dá um modificador +1 no Valor de Ataque à longa distância._
-    *   Reflexo \
-_permite reagir mais rápido à estímulos. \
-Cada nível nesta aprimoramento dá um modificador +1 no Valor da Defesa._ 
-*   Físico
-    *   Resistência \
-_capacidade de suportar stress físico e danos. \
-Cada nível em Resistência dá um modificador -1 no Dano sofrido_
-    *   Saúde \
-_capacidade de suportar stress biológicos, tais como venenos ou intoxicações, vitalidade e capacidade de recuperação._
-    *   Aparência \
-_aspecto físico e integridade corpórea - não se trata somente de beleza. \
-Aparência lida diretamente com a sensação de vitalidade da criatura, o quão saudável ela aparenta ser._
+> Cada nível nesta aprimoramento dá um modificador +1 no Valor de Ataque à curta distância.
 
-    **Mente**
+*   Precisão _mira apurada para arremessar objetos, laçar e mirar armas
 
-*   Inteligência \
-_Não se trata de ser mais ou menos inteligênte e sim a sua capacidade para assimilar aprendizados e o quanto você já acumulou de conhecimentos._
-*   Percepção \
-_capacidade de perceber o ambiente_
-*   Sabedoria \
-_capacidade de compreender o meio externo e pessoas; assimilar vivências e experiências vividas_
+> Cada nível nesta aprimoramento dá um modificador +1 no Valor de Ataque à longa distância.
 
-    **Espírito**
+*   Reflexo
 
-*   Vontade \
-_a força da mente_
-*   Presença \
-_nível de impacto no ambiente_
-    *   Empatia/Carisma \
-_impacto positivo e amistoso no ambiente_
-    *   Intimidação \
-_impacto hostil e agressivo no ambiente_
-    *   Liderança \
-_impacto positivo e agressivo no ambiente_
-*   Fé \
-_Nada tem a ver com ser um religioso. Fé é a capacidade de acreditar, seja no que for. Seja em sua própria força ou em forças invisíveis._
+Permite reagir mais rápido à estímulos.
 
-<h4 id="perícias">Perícias</h4>
+> Cada nível nesta aprimoramento dá um modificador +1 no Valor da Defesa.
 
+######Físico
+
+*   Resistência
+
+Capacidade de suportar stress físico e danos.
+
+> Cada nível em Resistência dá um modificador -1 no Dano sofrido_
+
+*   Saúde
+
+Capacidade de suportar stress biológicos, tais como venenos ou intoxicações, vitalidade e capacidade de recuperação.
+
+*   Aparência
+
+Aspecto físico e integridade corpórea.
+
+> Não se trata somente de beleza.
+
+> Aparência lida diretamente com a sensação de vitalidade da criatura, o quão saudável ela aparenta ser.
+
+#####Mente
+
+######Inteligência
+
+Não se trata de ser mais ou menos inteligênte e sim a sua capacidade para assimilar aprendizados e o quanto você já acumulou de conhecimentos.
+
+######Percepção
+
+Capacidade de perceber o ambiente
+
+######Sabedoria
+
+Capacidade de compreender o meio externo e pessoas; assimilar vivências e experiências vividas
+
+#####Espírito
+
+######Vontade
+
+a força da mente
+
+######Presença
+
+Nível de impacto no ambiente
+
+ *   Empatia/Carisma
+
+Impacto positivo e amistoso no ambiente
+
+*   Intimidação
+
+Impacto hostil e agressivo no ambiente
+
+*   Liderança
+
+Impacto positivo e agressivo no ambiente
+
+######Fé
+
+Nada tem a ver com ser um religioso. Fé é a capacidade de acreditar, seja no que for. Seja em sua própria força ou em forças invisíveis.
+
+####Perícias
 
 É o nível mais específico de conhecimento de um personagem e são em número infinito.
 
@@ -334,124 +233,27 @@ Ex: Perícia Futebol (Requerimentos: Desteza e Físico);
 
 O personagem possui **Desteza2** e **Físico3** logo ele está apto a ter algum nível em **Futebol**, porém o máximo que ele pode ter é **Futebol2** pois a sua Destreza é o Atributo de menos valor utilizado limitando a evolução da Perícia.
 
-<h5>Exemplos de Perícias</h5>
+#####Exemplos de Perícias
 
-
-
-<table>
-  <tr>
-   <td><strong>Perícias</strong>
-   </td>
-   <td><strong>Requerimentos</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Máquinas
-   </td>
-   <td>Inteligência
-   </td>
-  </tr>
-  <tr>
-   <td>Engenharia
-   </td>
-   <td>Inteligência
-   </td>
-  </tr>
-  <tr>
-   <td>Medicina
-   </td>
-   <td>Inteligência
-   </td>
-  </tr>
-  <tr>
-   <td>Ciências
-   </td>
-   <td>Inteligência
-   </td>
-  </tr>
-  <tr>
-   <td>Cuidar de Animais
-   </td>
-   <td>Inteligência e Medicina
-   </td>
-  </tr>
-  <tr>
-   <td>Lidar com Animais
-   </td>
-   <td>Presença
-   </td>
-  </tr>
-  <tr>
-   <td>Montaria
-   </td>
-   <td>Presença e Físico
-   </td>
-  </tr>
-  <tr>
-   <td>Futebol
-   </td>
-   <td>Físico e Desteza
-   </td>
-  </tr>
-  <tr>
-   <td>Sobrevivência
-   </td>
-   <td>Físico e Percepção
-   </td>
-  </tr>
-  <tr>
-   <td>Investigação
-   </td>
-   <td>Percepção e Sabedoria
-   </td>
-  </tr>
-  <tr>
-   <td>Interrogação
-   </td>
-   <td>Percepção, Sabedoria e Intimidação
-   </td>
-  </tr>
-  <tr>
-   <td>História
-   </td>
-   <td>Inteligência
-   </td>
-  </tr>
-  <tr>
-   <td>Artes
-   </td>
-   <td>Inteligência
-   </td>
-  </tr>
-  <tr>
-   <td>Idiomas (cada um)
-   </td>
-   <td>Inteligência
-   </td>
-  </tr>
-  <tr>
-   <td>Furtividade
-   </td>
-   <td>Agilidade
-   </td>
-  </tr>
-  <tr>
-   <td>Prestidigitação
-   </td>
-   <td>Agilidade
-   </td>
-  </tr>
-  <tr>
-   <td>Equilíbrio
-   </td>
-   <td>Agilidade
-   </td>
-  </tr>
-</table>
-
-
-<h2></h2>
-
+| Perícias| Requerimentos |
+| ------- | -------|
+| Máquinas | Inteligência |
+| Engenharia | Inteligência |
+| Medicina | Inteligência |
+| Ciências | Inteligência |
+| Cuidar de Animais	| Inteligência e Medicina |
+| Lidar com Animais	| Presença |
+| Montaria | Presença e Físico |
+| Futebol | Físico e Desteza |
+| Sobrevivência	| Físico e Percepção |
+| Investigação	| Percepção e Sabedoria |
+| Interrogação	| Percepção, Sabedoria e Intimidação |
+| História	| Inteligência |
+| Artes	| Inteligência |
+| Idiomas (cada um)	| Inteligência |
+| Furtividade | Agilidade |
+| Prestidigitação | Agilidade |
+| Equilíbrio | Agilidade
 
 <h3>Evolução do Personagem</h3>
 
