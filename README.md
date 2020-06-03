@@ -1,56 +1,42 @@
-<h1>Clip</h1>
+#Clip
 
 _Um RGP Simples, básico e adaptável_
 
-_Marcelo Brito | [@marcelobritonet](https://github.com/marcelobritonet)_
+> O sistema ainda em versão de testes. Problemas, lacunas e falhas podem ocorrer. Caso queira relatar algum erro, dar alguma dica ou sugestão acesse [CONTRIBUTING.md](./CONTRIBUTING.md).
 
+##Introdução
 
-O sistema ainda em versão de testes. Problemas, lacunas e falhas podem ocorrer. Caso queira relatar algum erro, dar alguma dica ou sugestão acesse [CONTRIBUTING.md](./CONTRIBUTING.md).
-
-
-<h2 id="introdução">Introdução</h2>
-
-
-<h3 id="nascimento-de-mais-um-sistema">Nascimento de mais um Sistema</h3>
-
+###Nascimento de mais um Sistema
 
 Os grandes Sistemas de RPG, desenvolvidos com bases em muita pesquisa, investimento e muitos, muitos testes; construíram os consagrados modelos por décadas à fio. Complexos e bem estruturados, eles tornaram o RPG naquilo que conhecemos hoje.
 
 Porém o mundo mudou, jogadores mudaram e os hábitos também. Agora, nem todos dispõem de vontade, recurso para adquirir manuais e suplementos, e tempo para devorar as infinitas páginas de regras e tabelas. O RPG como conhecemos precisa mudar e essa é a minha pequena parcela nesse momento de mudança.
 
-Para o desenvolvimento do Sistema Clip contei o que de melhor está disponível, consultei os principais manuais de regras e principalmente um pouco da minha experiência como mestre. Não havia necessidade alguma de “reinventar a roda”, começando tudo do zero. Reuni e selecionei os pontos positivos dos Sistemas consagrados e resumi ao máximo possível. Está nascendo um Sistema novo, genérico, simples e adaptável.
+Para o desenvolvimento do Sistema Clip contei o que de melhor está disponível, consultei os principais manuais de regras e principalmente um pouco da minha experiência como mestre. Não havia necessidade alguma de "reinventar a roda", começando tudo do zero. Reuni e selecionei os pontos positivos dos Sistemas consagrados e resumi ao máximo possível. Está nascendo um Sistema novo, genérico, simples e adaptável.
 
-<h3 id="por-que-mais-um-sistema">Por que mais um Sistema?</h3>
+###Por que mais um Sistema?
 
+O Sistema Clip surgiu a partir de discussões com outros Mestres, debatíamos sobre os problemas vividos pelos Narradores, tanto nas mesas presenciais como nas virtuais. A massificação  MMORPG, e as adaptações de RPG para as diversas plataformas trouxe uma infinidade de jogadores para o tradicional RPG de "papel e lápis". Porém junto com novos  trouxe também novos-antigos maus-hábitos que pareciam vencidos. E sem dúvida o principal e mais complicado desses problemas é o temido e odiado _meta-jogo_.
 
-O Sistema Clip surgiu a partir de discussões com outros Mestres, debatíamos sobre os problemas vividos pelos Narradores, tanto nas mesas presenciais como nas virtuais. A massificação  MMORPG, e as adaptações de RPG para as diversas plataformas trouxe uma infinidade de jogadores para o tradicional RPG de “papel e lápis”. Porém junto com novos  trouxe também novos-antigos maus-hábitos que pareciam vencidos. E sem dúvida o principal e mais complicado desses problemas é o temido e odiado _meta-jogo_.
+> Meta-jogo é o nome dado para ações de jogadores quem emprestam seus próprios conhecimentos para o personagem, que inseridos na ambientação do jogo jamais teriam, e estes agem com consciência de que está dentro de um jogo e não simulando um cenário fictício corretamente. Esse jogadores interpretam o seu personagem fazendo menções e referências utilizando-se apenas valores numéricos do sistema. Por exemplo: Ao detalhar a integridade física do personagem ele o faz mencionando os valores em Pontos de Vida.
 
-_Meta-jogo é o nome dado para ações de jogadores quem emprestam seus próprios conhecimentos para o personagem, que inseridos na ambientação do jogo jamais teriam, e estes agem com consciência de que está dentro de um jogo e não simulando um cenário fictício corretamente. Esse jogadores interpretam o seu personagem fazendo menções e referências utilizando-se apenas valores numéricos do sistema. Por exemplo: Ao detalhar a integridade física do personagem ele o faz mencionando os valores em Pontos de Vida._
-
-Avaliando o problema do meta-jogo verifiquei que boa parte da culpa vem dos Sistemas atuais. Estes Sistemas foram concebidos sem a preocupação de evitar e desencorajar meta-jogo praticado por jogadores. Estes, vindo de outras culturas tem como base apenas “pilhar monstros e ficar forte”. Verifiquei também que na maioria dos sistemas muitas coisas ficavam apenas na base da interpretação, mensuraram com detalhes atributos físicos e ações de combate deixando de lado questões sociais, psicológicas e mentais. Alguns cometem o disparate de bonificar com _pontos de experiência_ cada combate vencido. É uma apologia à personagens raros e puramente combativos.
+Avaliando o problema do meta-jogo verifiquei que boa parte da culpa vem dos Sistemas atuais. Estes Sistemas foram concebidos sem a preocupação de evitar e desencorajar meta-jogo praticado por jogadores. Estes, vindo de outras culturas tem como base apenas "pilhar monstros e ficar forte". Verifiquei também que na maioria dos sistemas muitas coisas ficavam apenas na base da interpretação, mensuraram com detalhes atributos físicos e ações de combate deixando de lado questões sociais, psicológicas e mentais. Alguns cometem o disparate de bonificar com _pontos de experiência_ cada combate vencido. É uma apologia à personagens raros e puramente combativos.
 
 Tomei então uma base para o Sistema. A premissa seria: ser **genérico**, **simples**, **adaptável**, com valores físicos, mentais e sociais **bem definidos** e **mensurados**. E assim é o **Sistema Clip**.
 
-<h2></h2>
+##Construção do Personagem
 
-
-<h2 id="construção-do-personagem">Construção do Personagem</h2>
-
-
-<h3 id="conteúdo-é-o-rei">Conteúdo é o Rei</h3>
-
+###Conteúdo é o Rei
 
 A primeira coisa para ser em mente no momento de construir um personagem é definir o seu background. Sem um passado interessante, com motivações e vivências bem definidas e conjunto com o Mestre do Jogo, nada pode ser feito e as regras do Sistema Clip não podem ser aplicada.
 
 Se você ainda não determinou qual é o background do personagem pare aqui e debata com o Mestre. Após definido prosseguiremos com a construção.
 
-<h4 id="tudo-pronto-podemos-começar">Tudo Pronto, podemos começar</h4>
-
+####Tudo Pronto, podemos começar
 
 Após definir a história do personagem é o momento de saber o quão experimentado e vivido em aventuras e combates ele é. Isso influenciará diretamente em quantos Pontos de Evolução ele terá para ser distribuído. Defina também com o Mestre em que ponto da vivência do Personagem você começará a construir.
 
-<h3 id="entenda-a-base-do-sistema-clip">Entenda a Base do Sistema Clip</h3>
-
+###Entenda a Base do Sistema Clip
 
 O Sistema Clip é um apanhado geral de vários sistemas. Este foi compilado e resumido para que suas regras sejam simples e facilmente compreendidas e aplicadas in-game. Ao prosseguir a leitura você vai se identificar com os sistemas que foram usados de como inspiração.
 
@@ -60,105 +46,31 @@ Para você se familiarizar mais rapidamente com o Sistema Clip, entenda que o ga
 
 Pronto, agora você já sabe tudo que precisa saber para começar. Não tem mistério. Defina o personagem. Use os Pontos de Evolução e pronto. Comece a jogar.
 
-<h3 id="caminhos-de-evolução">Caminhos de Evolução</h3>
-
+###Caminhos de Evolução
 
 Todo personagem precisa, de acordo com o seu background, estabelecer uma base para a sua evolução. E para evoluir ele precisa determinar o seu Caminho, no **Sistema Clip** o personagem encontra 3 Caminhos de Evolução: Corpo, Mente e Espírito.
 
 Um guerreiro, por exemplo, em sua essência está sempre buscando evoluir o Caminho do Corpo; um Mago trabalha em seguir o Caminho da Mente e um Sacerdote vive para o Caminho do Espírito. Porém, no **Sistema Clip**, os Caminhos e as Classes de personagem são totalmente flexíveis, as regras são para suportar qualquer tipo de background e nada impede que um Guerreiro seja espiritualizado ou mesmo um Sacerdote vise desenvolver o seu corpo para melhor combater fisicamente. Você quem decide e essas possibilidades darão brilhantismo ao personagem.
 
+|  Caminhos  | | |
+| ------------ | ------------ | ------------ |
+|  Corpo |  Mente| Espírito |
 
-<table>
-  <tr>
-   <td><strong>Caminhos</strong>
-   </td>
-   <td>Corpo
-   </td>
-   <td>Mente
-   </td>
-   <td>
-    Espírito
-   </td>
-  </tr>
-</table>
-
-
-<h3 id="distribuição-de-pontos">Distribuição de Pontos</h3>
-
+###Distribuição de Pontos
 
 Cada jogador receber uma determinada quantidade de **_Pontos de Evolução_** correspondente ao seu **_Nível Inicial_** do personagem e é definido pelo Mestre no início da aventura. Esses _Pontos_ podem ser usados para evoluir cada um dos **_Caminhos de Evolução._**
 
+|   Nível Inicial |  Sugestão média de Pontos de Evolução por Nível |
+| ------------ | ------------ |
+|  Pessoa comum |  0 - 4pts |
+|  Pessoa bem treinada |  5 - 9pts |
+|  Especialista Iniciante |  10 - 12pts |
+|  Especialista Médio |  13 - 15pts |
+|  Especialista Muito Experiente | 16 -19pts |
+|  Consagrado |  20 - 25pts |
+|  Lenda | acima de 25pts  |
 
-<table>
-  <tr>
-   <td>
-    <strong>Nível Inicial</strong>
-   </td>
-   <td>
-    <strong>Sugestão média de Pontos de Evolução por Nível</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <strong>Pessoa comum</strong>
-   </td>
-   <td>
-    0-4pts
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <strong>Pessoa bem treinada</strong>
-   </td>
-   <td>
-    5-9pts
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <strong>Aventureiro Iniciante</strong>
-   </td>
-   <td>
-    10-12pts
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <strong>Aventureiro Médio</strong>
-   </td>
-   <td>
-    13-15pts
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <strong>Aventureiro Experiente</strong>
-   </td>
-   <td>
-    16-19pts
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <strong>Herói Consagrado</strong>
-   </td>
-   <td>
-    20-25pts
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <strong>Lenda</strong>
-   </td>
-   <td>
-    25pts
-   </td>
-  </tr>
-</table>
-
-
-<h4 id="atibutos">Atibutos</h4>
-
+####Atributos
 
 Cada um dos **Caminhos**, por sua vez, se subdividem em 3 **Atributos**. Estes **Atributos** definem características mais específicas para o personagem e além disso capacitam o personagem para acessar **Aprimoramentos** e **Perícias**.
 
