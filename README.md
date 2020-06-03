@@ -61,7 +61,7 @@ Após definir a história do personagem é o momento de saber o quão experiment
 
 O Sistema Clip é um apanhado geral de vários sistemas. Este foi compilado e resumido para que suas regras sejam simples e facilmente compreendidas e aplicadas in-game. Ao prosseguir a leitura você vai se identificar com os sistemas que foram usados de como inspiração.
 
-Basicamente tudo é comprado com _pontos_. Esses pontos são chamados **Pontos de Evolução**. Esse Pontos são usados para comprar_ **Nível**_. Quanto maior o nível melhor. Os níveis variam em média entre _zero _e _cinco _pontos.
+Basicamente tudo é comprado com _pontos_. Esses pontos são chamados **Pontos de Evolução**. Esse Pontos são usados para comprar _**Nível**_. Quanto maior o nível melhor. Os níveis variam em média entre _zero_ e _cinco_ pontos.
 
 Para você se familiarizar mais rapidamente com o Sistema Clip, entenda que o gasto de “pontos” é feito da mesma forma com que compra por atributos em _Storyteller_ ou em _3D&T_, por exemplo.
 
@@ -167,7 +167,7 @@ Cada jogador receber uma determinada quantidade de **_Pontos de Evolução_** co
 <h4 id="atibutos">Atibutos</h4>
 
 
-Cada um dos **Caminhos**, por sua vez, se subdividem em 3 **Atributos**. Estes **Atributos **definem características mais específicas para o personagem e além disso capacitam o personagem para acessar **Aprimoramentos **e **Perícias**.
+Cada um dos **Caminhos**, por sua vez, se subdividem em 3 **Atributos**. Estes **Atributos** definem características mais específicas para o personagem e além disso capacitam o personagem para acessar **Aprimoramentos** e **Perícias**.
 
 É nesse momento que os Pontos de Evolução podem ser “gastos”. Na seção específica existe uma definição detalhada de cada um deles.
 
@@ -220,7 +220,7 @@ Cada um dos **Caminhos**, por sua vez, se subdividem em 3 **Atributos**. Estes *
 <h4 id="aprimoramentos">Aprimoramentos</h4>
 
 
-Cada **Atributo **permite acessar seus próprios **Aprimoramentos**. Esses Aprimoramentos aperfeiçoam e capacitam o personagem a realizar ações mais específicas no jogo.
+Cada **Atributo** permite acessar seus próprios **Aprimoramentos**. Esses Aprimoramentos aperfeiçoam e capacitam o personagem a realizar ações mais específicas no jogo.
 
 O nível num Aprimoramento jamais pode superar o nível do Atributo-pai.
 
@@ -351,13 +351,13 @@ O nível num Aprimoramento jamais pode superar o nível do Atributo-pai.
 
 
 *   O nível de uma Aprimoramento jamais pode superar o nível do Atributo-pai.
-*   O nível de uma Perícia jamais pode superar o nível do Atributo-pai..
+*   O nível de uma Perícia jamais pode superar o nível do Atributo-pai.
 
 <h4 id="definição-dos-atributos">Definição dos Atributos</h4>
 
 
 
-    **Corpo**
+**Corpo**
 
 
 
@@ -370,7 +370,7 @@ _Aprimora o attaque e dano físico causado por armas de longo alcançe (lança, 
     *   _Cada nível de Arremesso adiciona +1 ao Valor de Ataque quando este for feito à longa distância._
     *   Manipulação de Peso \
 _Suporta uma maior quantidade de armas, armadures, pertences e ítens. \
-Cada nível em Manipulação de Peso permite ao personagem utilizar armas 1 nível a mais que o permitido. _
+Cada nível em Manipulação de Peso permite ao personagem utilizar armas 1 nível a mais que o permitido._
 *   Destreza
     *   Agilidade \
 _Mover-se com rapidez. \
@@ -397,7 +397,7 @@ _Não se trata de ser mais ou menos inteligênte e sim a sua capacidade para ass
 *   Percepção \
 _capacidade de perceber o ambiente_
 *   Sabedoria \
-_capacidade de compreender o meio externo e pessoas; assimilar vivências e experiências vividas _
+_capacidade de compreender o meio externo e pessoas; assimilar vivências e experiências vividas_
 
     **Espírito**
 
@@ -427,7 +427,7 @@ O nível da Perícia nunca pode ser mais alto que o Atributo de menor valor requ
 
 Ex: Perícia Futebol (Requerimentos: Desteza e Físico);
 
-O personagem possui **Desteza2 **e **Físico3 **logo ele está apto a ter algum nível em **Futebol**, porém o máximo que ele pode ter é **Futebol2** pois a sua Destreza é o Atributo de menos valor utilizado limitando a evolução da Perícia.
+O personagem possui **Desteza2** e **Físico3** logo ele está apto a ter algum nível em **Futebol**, porém o máximo que ele pode ter é **Futebol2** pois a sua Destreza é o Atributo de menos valor utilizado limitando a evolução da Perícia.
 
 <h5>Exemplos de Perícias</h5>
 
@@ -736,7 +736,7 @@ _Ex: Um personagem de Força4 pode se utilizar, em combate, de uma combinação 
 <h3 id="iniciativa">Iniciativa</h3>
 
 
-Inicia a Sequência de Combate como **atacante **o personagem com a maior iniciativa definida pelos seguintes os critérios:
+Inicia a Sequência de Combate como **atacante** o personagem com a maior iniciativa definida pelos seguintes os critérios:
 
 
 
@@ -755,28 +755,28 @@ Para resolver uma situação de combate proceda assim:
 
 
 
-1. A **_Atacante _**determina seu **_Valor de Ataque_** da seguinte forma:
+1. A **_Atacante_** determina seu **_Valor de Ataque_** da seguinte forma:
     1. Nível em Ataque Corporal (combate próximo) ou Arremesso (longa distância) +
     2. Nível em Agilidade (combate próximo) ou Precisão (longa distância) +
     3. Modificadores obtidos por Perícias correspondentes +
     4. Outros modificadores
     5. 1D6
     6. O resultado da soma é o **_Valor de Ataque_**
-2. O **_Defensor _**determina o **_Valor de Defesa_ **através da fórmula:
+2. O **_Defensor_** determina o **_Valor de Defesa_** através da fórmula:
     7. Valor em Reflexo +
     8. Valor em Resistência +
     9. Modificadores obtidos através de Perícias correspondentes +
     10. Outros Modificadores
     11. 1D6
     12. O resultado da soma é o **_Valor de Defesa_**
-3. **Compara-se **os valores:
-    13. Em caso de empate ou se o **_Defensor _**possuir o **maior _Valor_**, a defesa foi bem sucedida. O ataque foi Defendido ou Esquivado.
-    14. se o **_Atacante _**possuir o **maior Valor**, o ataque foi bem sucedido, deve-se então prosseguir da seguinte forma:
+3. **Compara-se** os valores:
+    13. Em caso de empate ou se o **_Defensor_** possuir o **maior _Valor_**, a defesa foi bem sucedida. O ataque foi Defendido ou Esquivado.
+    14. se o **_Atacante_** possuir o **maior Valor**, o ataque foi bem sucedido, deve-se então prosseguir da seguinte forma:
         1. **Calcule o Dano**: Subtraia o _Valor de Ataque_ do _Valor de Defesa_, ao obter o resultado este será o **_Dano_**.
-        2. **Some **ao **Dano **o modificador da **Arma** usada pelo **Atacante**.
-        3. **Subraia **do **Dano** o modificador da **Armadura **e do **Escudo **do **Defensor.**
-        4. **Subtraia **do **Dano **o valor da **Resistência **do **Defensor**.
-        5. O _Dano _restante deve ser descontado diretamente nos _Pontos de Vida_ do Defensor.
+        2. **Some** ao **Dano** o modificador da **Arma** usada pelo **Atacante**.
+        3. **Subraia** do **Dano** o modificador da **Armadura** e do **Escudo** do **Defensor.**
+        4. **Subtraia** do **Dano** o valor da **Resistência** do **Defensor**.
+        5. O _Dano_ restante deve ser descontado diretamente nos _Pontos de Vida_ do Defensor.
             1. Obs: Mesmo que o resultado seja menor que 1 <span style="text-decoration:underline;">sempre</span> desconte pelo menos 1 a cada ataque bem sucedido.
         6. Se o **_Defensor_** não tiver mais _Pontos de Vida_ (PV) este está desmaiado ou morto.
 
@@ -828,7 +828,7 @@ Para cada nível no Atributo, Aprimoramento ou Perícia testada 1D6 será lança
 <h3 id="definindo-dificuldades">Definindo Dificuldades</h3>
 
 
-O mestre fará o máximo para ser justo no momento de definir à **Dificuldade **do teste. Porém para facilitar segue a tabela de ajuda:
+O mestre fará o máximo para ser justo no momento de definir à **Dificuldade** do teste. Porém para facilitar segue a tabela de ajuda:
 
 
 <table>
@@ -878,7 +878,7 @@ O segundo personagem possui Força3, rola então 3D6 e obtém 12 como resultado.
 
 **Situação 3: Insistindo no teste**
 
-O primeiro jogador, que possui Força1, decide que o personagem irá **insistir **no teste para obter sucesso. Para forçar um sucesso o personagem fará um esforço acima de suas capacidades para isso. **Insistir **no teste é permitido apenas para Atributos do Caminho do Corpo.
+O primeiro jogador, que possui Força1, decide que o personagem irá **insistir** no teste para obter sucesso. Para forçar um sucesso o personagem fará um esforço acima de suas capacidades para isso. **Insistir** no teste é permitido apenas para Atributos do Caminho do Corpo.
 
 Caso o Mestre autorize um **insistência**. Proceda assim:
 
@@ -901,7 +901,7 @@ Dois personagens com Força1 decidem juntar forças para derrubar esta porta. Ca
 
 **Stualção 6: Personagens incapazes de testar**
 
-Personagem que possui Força 0. Aqueles que possuem o atributo testado no nível  0 (zero), à critério do mestre obtém falha automática nos testes. Caso um teste seja permitido, eles rolam 1D6-2 (rola 1D6 e diminue 2 do resultado) e jamais podem **Insistir **no teste.
+Personagem que possui Força 0. Aqueles que possuem o atributo testado no nível  0 (zero), à critério do mestre obtém falha automática nos testes. Caso um teste seja permitido, eles rolam 1D6-2 (rola 1D6 e diminue 2 do resultado) e jamais podem **Insistir** no teste.
 
 <h3>Testando o Caminho da Mente</h3>
 
@@ -913,7 +913,7 @@ Personagem que possui Força 0. Aqueles que possuem o atributo testado no nível
 
 
 
-    **Corpo**
+**Corpo**
 
 
 
@@ -934,7 +934,7 @@ Personagem que possui Força 0. Aqueles que possuem o atributo testado no nível
 
 *   Inteligência _Conhecer a geografia local_
 *   Percepção _Lembrar do caminho de retorno de um labirinto, notar uma trava secreta_
-*   Sabedoria _Perceber uma mentira, conhecer a cultura local _
+*   Sabedoria _Perceber uma mentira, conhecer a cultura local_
 
     **Espírito**
 
@@ -1110,7 +1110,7 @@ Para cancelar um Encantamento permante o Conjurador deve doar seus PMs permantem
 
 Para cancelar um Encantamento temporário o Conjurador deve gastar 1 PM para cada rolagem de dados até alcançar o valor numérico do Poder Mágico do objeto.
 
-É possível _forçar _um objeto mágico com força bruta, como por exemplo tentar abrir uma porta trancada magicamente.. Para realizar essa ação o jogador realizar um teste, a Dificuldade terá o valor do Poder Mágico do Objeto. Porem o Atributo, aprimoramente ou Perícia testada terá um redução de 1D6 no teste.
+É possível _forçar_ um objeto mágico com força bruta, como por exemplo tentar abrir uma porta trancada magicamente.. Para realizar essa ação o jogador realizar um teste, a Dificuldade terá o valor do Poder Mágico do Objeto. Porem o Atributo, aprimoramente ou Perícia testada terá um redução de 1D6 no teste.
 
 Por exemplo. Uma espada fincada magicamente numa pedra. A Encantamento possui Poder Mágico20, logo o teste terá Dificuldade20. O Bárbaro com Força4 que lançaria 4D6 para realizar um teste de Força sofre a penalidade de 1D6 na realização do teste, logo, lançará 3D6. Este deverá alcançar um resultado 20 no lançamento de dados para forçar a espada do lugar.
 
