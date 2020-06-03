@@ -12,7 +12,7 @@ _Um RGP Simples, básico e adaptável_
 _Marcelo Brito | [@marcelobritonet](https://github.com/marcelobritonet)_
 
 
-O sistema ainda em versão de testes. Problemas, lacunas e falhas podem ocorrer. Caso queira relatar algum erro, dar alguma dica ou sugestão acesse [CONTRIBUTING.md](https://github.com/marcelobritonet/clip/blob/master/CONTRIBUTING.md).
+O sistema ainda em versão de testes. Problemas, lacunas e falhas podem ocorrer. Caso queira relatar algum erro, dar alguma dica ou sugestão acesse [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 
 <h2 id="introdução">Introdução</h2>
