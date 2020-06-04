@@ -400,740 +400,687 @@ Para resolver uma situação de combate proceda assim:
         3. **Subraia** do **Dano** o modificador da **Armadura** e do **Escudo** do **Defensor.**  
  4. **Subtraia** do **Dano** o valor da **Resistência** do **Defensor**.  
         5. O _Dano_ restante deve ser descontado diretamente nos _Pontos de Vida_ do Defensor.  
-           1. Obs: Mesmo que o resultado seja menor que 1 <span style="text-decoration:underline;">sempre</span> desconte pelo menos 1 a cada ataque bem sucedido.  
+           1. Obs: Mesmo que o resultado seja menor que 1 sempre desconte pelo menos 1 a cada ataque bem sucedido.  
         6. Se o **_Defensor_** não tiver mais _Pontos de Vida_ (PV) este está desmaiado ou morto.  
-  
-### Regras Especiais
-  
-Em alguns momentos a sorte interfere numa situação de combate. Falhas Críticas ou Sucesso Crítico pode ocorrer inesperadamente. Cabe então o mestre punir uma falha ou bonificar um Sucesso.  
 
-<table>  
-  <tr>  
-   <td>  
-    Situação  
-   </td>  
-   <td>  
-    Resultado  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>  
-    Falha Crítica  
-   </td>  
-   <td>  
-    Caso seja obtido 1 na rolagem de dados role novamente o D6. \  
-Caso seja obtivo o resultado 1 novamente houve uma falha crítica.  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>  
-    Sucesso Crítico  
-   </td>  
-   <td>  
-    Caso seja obtido 6 na rolagem de dados role novamente o D6. \  
-Caso seja obtivo o resultado 6 novamente houve uma sucesso crítico.  
-   </td>  
-  </tr>  
-</table>  
-  
-  
-<h2 id="testes">Testes</h2>  
-  
-  
-Em algumas situações do jogo o Mestre pode solicitar algum teste envolvendo algum Atributo, Aprimoramento ou Perícia.  
-  
-Ao solicitar um Teste à um Jogador o Mestre deve definir que Atributo, Aprimoramento ou Perícia será testado e um valor numérico será atribuído. Este valor indica a **Dificuldade** necessário para obter sucesso nesse teste.  
-  
-Para cada nível no Atributo, Aprimoramento ou Perícia testada 1D6 será lançado se o valor de Dificuldade foi alcançado o personagem obteve sucesso na ação.  
-  
-<h3 id="definindo-dificuldades">Definindo Dificuldades</h3>  
-  
-  
-O mestre fará o máximo para ser justo no momento de definir à **Dificuldade** do teste. Porém para facilitar segue a tabela de ajuda:  
-  
-  
-<table>  
-  <tr>  
-   <td><strong>Situação</strong>  
-   </td>  
-   <td>Muito Fácil  
-   </td>  
-   <td>Normal  
-   </td>  
-   <td>Difícil  
-   </td>  
-   <td>Muito Difícil  
-   </td>  
-   <td>Quase Impossível  
-   </td>  
-  </tr>  
-  <tr>  
-   <td><strong>Dificuldade</strong>  
-   </td>  
-   <td>2  
-   </td>  
-   <td>3-4  
-   </td>  
-   <td>5-10  
-   </td>  
-   <td>11-15  
-   </td>  
-   <td>16-25  
-   </td>  
-  </tr>  
-</table>  
-  
-  
-<h3>Testando o Caminho do Corpo</h3>  
-  
-  
-Dois peronsagens querem derrubar uma pesada porta de madeira grossa. O mestre então solicita um teste de Força ao primeiro jogador. O mestre então determina que derrubar esta porta tem **Dificuldade** 10.  
-  
-**Situação 1: Atributo Insuficiente**  
-  
-O primeiro personagem possui Força1. Com este valor de Força ele não conseguirá, por meios normais obter sucesso, já que o máximo possível para a rolagem de dados é o valor 6. Esse personagem então teve fala no seu teste.  
-  
-**Situação 2: Atributo Suficiente**  
-  
-O segundo personagem possui Força3, rola então 3D6 e obtém 12 como resultado. A porta foi derrubada.  
-  
-**Situação 3: Insistindo no teste**  
-  
-O primeiro jogador, que possui Força1, decide que o personagem irá **insistir** no teste para obter sucesso. Para forçar um sucesso o personagem fará um esforço acima de suas capacidades para isso. **Insistir** no teste é permitido apenas para Atributos do Caminho do Corpo.  
-  
-Caso o Mestre autorize um **insistência**. Proceda assim:  
-  
-  
-  
-1. Role 1D6  
-2. A partir do resultado obtido verifique quanto falta para alcançar o sucesso:  
-   1. Dificuldade10  
-   2. Resultado obtido 4  
-   3. Falta para completar 6 (10-4=6)  
-3. Use os Pontos de Vida do personagem para completar o valor necessário. Desconte 6 dos Pontos de Vida.  
-  
-**Situação 4: Usando objetos**  
-  
-O primeiro personagem com Força1 agora possui algum objeto que ajuda à realizar o seu teste. No caso o personagem possui um pé de cabra para forçar a porta. O mestre então atribui ao objeto um modificador para esse teste e no caso o mestre atribuiu Pé de Cabra2. Agora o personagem possui para esse teste uma Força3 e pode rolar 3D6 para realizar o teste.  
-  
-**Situação 5: Unindo forças**  
-  
-Dois personagens com Força1 decidem juntar forças para derrubar esta porta. Caso o mestre autorize, pode ser feita a soma das Forças para o teste. Então os personagens possuem, para derrubar a porta Força 2. E uma rolagem de 2D6 pode ser feita.  
-  
-**Stualção 6: Personagens incapazes de testar**  
-  
-Personagem que possui Força 0. Aqueles que possuem o atributo testado no nível  0 (zero), à critério do mestre obtém falha automática nos testes. Caso um teste seja permitido, eles rolam 1D6-2 (rola 1D6 e diminue 2 do resultado) e jamais podem **Insistir** no teste.  
-  
-<h3>Testando o Caminho da Mente</h3>  
-  
-  
-<h3>Testando o Caminho do Espírito</h3>  
-  
-  
-<h3 id="exemplo-de-testes">Exemplo de Testes</h3>  
-  
-  
-  
-**Corpo**  
-  
-  
-  
-* Força _Derrubar uma porta_  
- * Ataque corporal _Desmaiar um inimigo_  
- * Arremesso _Lançar uma corda para alguém que está mais alto_  
- * Manipulação de Peso   
-* Destreza _Colocar uma linha na agulha_  
- * Agilidade _Capturar um coelho_  
- * Precisão _Acertar uma maçã com um dardo_  
- * Reflexo _Evitar a queda de um jarro_ * Físico _Manter presa a respiração_  
- * Resistência _Resistir à uma temperatura extrema_  
- * Saúde _Resistir à veneno_  
- * Aparência  
-  
-    **Mente**  
-  
-* Inteligência _Conhecer a geografia local_  
-* Percepção _Lembrar do caminho de retorno de um labirinto, notar uma trava secreta_  
-* Sabedoria _Perceber uma mentira, conhecer a cultura local_  
-  
- **Espírito**  
-  
-* Vontade _Evitar um controle mental mágico_  
-* Presença _Reunir uma imensa multidão_  
- * Empatia/Carisma _Fazer todos da platéia rirem_  
- * Intimidação _Coseguir uma confissão_  
- * Liderança_ Proferir um discurso impactante_  
-* Fé  
-  
-<h2></h2>  
-  
-  
-<h2 id="suplemento">Suplemento</h2>  
-  
-  
-<h3 id="magia">Magia</h3>  
-  
-  
-Magia é um elemento suplementar nesse Sistema e pode ser entendida e aplicada de diferentes formas. Entende-se como Magia qualquer invocação alheia à normalidade e que interfere na física do ambiente. Cada cenário pode adaptar as regras de magia ao seu modo, ela pode ser entendida como invocação de pores da natureza, poderes espirituais, psíquicos ou nascidas com o personagem.  
-  
-O objetivo desse sistema não é determinar o que é magia e muito menos exemplificar suas variadas formas e usos. Mestres, sinta-se à vontade para adaptar e acrescentar regras conforme a necessidade do seu cenário.  
-  
-<h4 id="aprendendo-e-usando-magia">Aprendendo e Usando Magia</h4>  
-  
-  
-Qualquer personagem pode ser capaz de manifestar e fazer uso de magias porém ela é praticada com mais perfeição por quem prioriza o Caminho da Mente e em alguns Casos o Caminho do Espírito.  
-  
-Para aprender Mágicas o jogador deve comprar a Perícia necessária e especificar como será a utilização desta pelo seu personagem.  
-  
-  
-<table>  
-  <tr>  
-   <td><strong>Perícias Mágicas</strong>  
-   </td>  
-   <td><strong>Requer.</strong>  
-   </td>  
-   <td><strong>Duração</strong>  
-   </td>  
-   <td><strong>Custo em PM</strong>  
-   </td>  
-   <td><strong>Exemplo</strong>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Mágicas de Ataque Físico  
-   </td>  
-   <td>Inteligência  
-   </td>  
-   <td>Instantânea  
-   </td>  
-   <td>1PM por ataque  
-   </td>  
-   <td>Causa um ataque mágico com Valor de Ataque 3 e Dano 3  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Mágicas de Ataque Mental  
-   </td>  
-   <td>Sabedoria, Vontade  
-   </td>  
-   <td>Instantânea  
-   </td>  
-   <td>1PM por ataque  
-   </td>  
-   <td>Causa um ataque mágico mental com Valor de Ataque 3 e Dano 3  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Mágicas de Suporte  
-   </td>  
-   <td>Sabedoria  
-   </td>  
-   <td>Instantânea ou Curta  
-   </td>  
-   <td>1PM para cada modificador  
-   </td>  
-   <td>Bonifica todos os amigos com Dano +2  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Mágicas de Encantamento  
-   </td>  
-   <td>Percepção, Inteligência  
-   </td>  
-   <td>Longa ou Indefinida  
-   </td>  
-   <td>1PM para cada rolagem  
-   </td>  
-   <td>Trancar magicamente uma porta.  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Manipulação Elemental Mágica  
-   </td>  
-   <td>Inteligência  
-   </td>  
-   <td>Longa ou Indefinida  
-   </td>  
-   <td>1 PM por nível da manipulação  
-   </td>  
-   <td>Incendiar uma casa com fogo mágico. Criar um golem de areia.  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Mágicas de Controle  
-   </td>  
-   <td>Sabedoria, Vontade  
-   </td>  
-   <td>Longa ou Indefinida  
-   </td>  
-   <td>1PM para cada rolagem  
-   </td>  
-   <td>Paralisar oponentes hostis. Seduzir magicamente.  
-   </td>  
-  </tr>  
-</table>  
-  
-  
-<h4 id="limitações-para-magias">Limitações para Magias</h4>  
-  
-  
-  
-  
-* A Nível máximo de uma Perícia Mágica nunca poderá ser maior do que o Atributo de menor valor requerido por ela. \  
- \  
-Ex. Um Conjurador com Percepção 3 e Inteligência 1 possui a Perícia Mágicas de Encantamento. O nível máximo possível para essa perícia será Mágicas de Encantamento 1, limitado pela Inteligência 1 que é a perícia de menor valor requerido \  
-.  
-* O máximo de Pontos de Magia que pode ser gasto em cada mágica lançada é definido pelo Nível da Perícia Mágica em questão.  
-  
-<h4 id="regras-simplificadas-para-perícias-mágicas">Regras simplificadas para Perícias Mágicas</h4>  
-  
-  
-<h5 id="mágicas-de-ataque-físico">Mágicas de Ataque Físico</h5>  
-  
-  
-É a perícia que permite ao Conjurador realizar ataques físicos contra um alvo. Mágicas de Ataque podem se utilizar de qualquer elemento da natureza ou magia bruta, porém não podem ser manipuladas, moldadas ou sustentadas por mais que alguns rápidos instantes.  
-  
-Realizar um Ataque Mágico Físico proceda assim: O Valor de Ataque será 1D6 + modificador. Gaste 1PM para cada modificador no Valor de Ataque. Deve ser acrescentado pelo menos 1 modificador por Ataque Mágico Físico. O modificador do Valor de Ataque será no máximo igual ao nível da Perícia Mágica de Ataque.  
-  
-<h5 id="mágicas-de-ataque-mental">Mágicas de Ataque Mental</h5>  
-  
-  
-Perícia que permite ao Conjurador realizar terríveis ataques à mente do alvo. Mágicas de Ataque Mental são invisíveis para quem assiste, porém o alvo sabe que algo de errado está acontecendo com a sua mente.  
-  
-Ao realizar um Ataque Mágico Mental proceda assim: O Valor de Ataque será 1D6 + modificador desta perícia. Gaste 1PM para cada modificador no Valor de Ataque. Deve ser acrescentado pelo menos 1 modificador por Ataque Mágico Mental. O modificador do Valor de Ataque será no máximo igual ao nível da Perícia Mágica de Ataque.  
-  
-O Valor de Defesa do Alvo será calculado do seguinte modo: 1D6 + Vontade + Fé. O Dano recebido pelo Alvo será descontado da sua Sanidade. Quando um personagem não possuir nenhum ponto de Sanidade proceda normalmente com as regras de Sanidade.  
-  
-<h5 id="mágicas-de-suporte">Mágicas de Suporte</h5>  
-  
-  
-Permite o Conjurador oferecer apoio a auxílio ao seu grupo de companheiros. Para acada modificador que ele acrescentar ou diminuir e para cada alvo desconte 1 Ponto de Magia.  
-  
-O personagem pode, à sua vontade bonificar ou penalizar o alvo com modificadores positivos ou negativos. O bônus/penalidade infringida ao alvo pode alcançar qualquer Atributo/Aprimoramento ou Perícia do alvo.  
-  
-O bônus/penalidade imposto ao alvo duram enquanto o Conjurador manter contato visual com o alvo cessando alguns segundos depois.  
-  
-_Observação_: Mágicas de Suporte permite realizar curas mágicas. Para realizar a cura de um alvo role 1D6 e some aos PV do alvo. Para cada rolagem feita desconte 1 Ponto de Magia.  
-  
-<h5 id="mágicas-de-encantamento">Mágicas de Encantamento</h5>  
-  
-  
-Permitem o Conjurador interferir em itens, objetos, armas, equipamentos e quaisquer objetos que possuir contato físico no momento do Encantamento. Um Conjurador com essas habilidades tem a capacidade de, magicamente, modificar itens ao seu bel prazer e também cancelar Encantamentos feitos por outros Conjuradores.  
-  
-Para realizar um encantamento o Conjurador precisa de algum tempo e concentração. Não pode estar em combate ou situações de stress.  
-  
-Para Encantar permanentemente um objeto, ou seja, criar um item mágico com modificadores positivos ou negativos, o Conjurador doa permanentemente seus PMs ao objeto para cada modificador que ele acescentar ou tirar.  
-  
-Para Encantar temporariamente algum objeto, como por exemplo, trancar magicamente uma porta, o Conjurador rola 1D6 para cada PM gasto. Esse valor será o Poder Mágico do objeto.   
-  
-Para cancelar um Encantamento permante o Conjurador deve doar seus PMs permantemente para cada modificador aumentado ou diminuído do objeto. Antes de realizar a mágica o Conjurador sabe exatamente quantos PMs ele vai doar.  
-  
-Para cancelar um Encantamento temporário o Conjurador deve gastar 1 PM para cada rolagem de dados até alcançar o valor numérico do Poder Mágico do objeto.  
-  
-É possível _forçar_ um objeto mágico com força bruta, como por exemplo tentar abrir uma porta trancada magicamente.. Para realizar essa ação o jogador realizar um teste, a Dificuldade terá o valor do Poder Mágico do Objeto. Porem o Atributo, aprimoramente ou Perícia testada terá um redução de 1D6 no teste.  
-  
-Por exemplo. Uma espada fincada magicamente numa pedra. A Encantamento possui Poder Mágico20, logo o teste terá Dificuldade20. O Bárbaro com Força4 que lançaria 4D6 para realizar um teste de Força sofre a penalidade de 1D6 na realização do teste, logo, lançará 3D6. Este deverá alcançar um resultado 20 no lançamento de dados para forçar a espada do lugar.  
-  
-<h5 id="manipulação-elemental-mágica">Manipulação Elemental Mágica</h5>  
-  
-  
-O conjurador tem o poder de modificar, criar e manipular elementos da natureza. Manipulações Elementais não são eficazes para causar dano à um alvo.  
-  
-Para cada manipulação elemental simples o Conjurador gasta 1 PM. Uma manipulação simples pode ser por exemplo fazer a água se mover ou o vento soprar mais forte.  
-  
-Para cada manipulação elemental complexa o Conjurador gasta 2 PM. Uma manipulação complexa é entendida como gerar uma pequeno furacão que move objetos grandes ou moldar rochas.  
-  
-Para criar um criatura Elemental o Cojurador gasta 1 PM para cada Atributo do Elemental, este por sua vez possui apenas Atributos do Caminho do Corpo. Esta criatura permanece sob controle do Conjurador e pode, inclusive, combater e possui uma semi-consciência até ser destruida (zero PVs).  
-  
-<h5 id="mágica-de-controle">Mágica de Controle</h5>  
-  
-  
-O Conjurador pode afetar a mente e o espírito de um alvo inteligente.  
-  
-O Conjurador poder tentar realizar qualquer ação mental (medo, amor, confiança, por ex.) sobre o alvo, porém deve possuir Vontade superior ao alvo. O custo dessa açao é de 1PM. Caso não possua Vontade superior à do alvo a mágica falha instantaneamente.  
-  
-Se o alvo souber das intenções do mago ou não concordar com o resultado do Controle é possível tentar impedir. Caso o Conjurador tente ainda assim forçar o Controle, deve para isso gastar 1PM para fazer uma rolagem 1D6+Nivel de Mágica de Controle. O Alvo do controle rola 1D6+Vontade.  
-  
-O Controle persiste até que o alvo tenha algum motivo para desacreditar na veracidade do Controle.  
-  
-Por ex. O conjurador executa o Controla do alvo fazendo este ter um grande medo do Conjurador. O Controle cessará na primeira derrota ou demonstração de fraqueza do Conjurado na presença do alvo.  
-  
-<h3></h3>  
-  
-  
-<h3 id="antecedentes">Antecedentes</h3>  
-  
-  
-Alguns personagens, antes de participar de alguma aventura, provavelmente já possuem um passado, uma história e uma vida pregressa interessante. E o jogadores pode, de acordo com a história do personagem, apimentar esses detalhes que influenciem o presente.  
-  
-Os Antecentes mensuram aspectos sociais do personsagem, que estão alheio a sua vontade e controle, podendo se intensificar ou desaparecer com o decorrer da sua vida.  
-  
-Os Antecedentes devem ser definidos no momento da criação do personagem ser poder ser modificado à vontade do jogador.  
-  
-<h4 id="regras-para-antecedentes">Regras para Antecedentes</h4>  
-  
-  
-  
-  
-* Tome nota do menor valor de Caminho de Evolução do Personagem (entre Corpo, Mente e Espírito), este vai ser o valor em **Pontos de Antecedentes** do personagem.  
-* O Pontos “gastos” num determinado Antecedente não possui máximo definido. Ou seja, o jogador pode gastar todos os seus pontos em apenas um Antecedente.  
-* Cada nível em um Bom Antecedente custa 1 Ponto e igualmente cada nível num Mau Antecedente concede 1 Ponto.  
-* Niveis em alguem Mau Antecedente jamais pode aumentar seus Pontos de Antecedentes acima do dobro dos pontos iniciais.  
-    * Ex. O personagem tem como Caminho de menor valor Corpo 3, logo jogador possui 3 Pontos de Antecedentes disponíveis. O jogador então compra Má fama 2 e Inimigo 1 concedendo ao personagem mais 3 Pontos de Antecedentes, agora o personagem possui um total de 6 Pontos de Antecedentes, o máximo permitido para ele.  
-* Não é permitido possuir Antecedentes antagônicos. Por ex. Pobreza e Riqueza.  
-  
-Segue algumas sugestões de Antecedentes:  
-  
-  
-<table>  
-  <tr>  
-   <td><strong>Bons Antecedentes</strong>  
-   </td>  
-   <td><strong>Maus Antecedentes</strong>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Boa Fama  
-   </td>  
-   <td>Má Fama  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Aliado  
-   </td>  
-   <td>Inimigo  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Recursos Financeiros  
-   </td>  
-   <td>Falta de Recursos Financeiros  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Raça Incomum bem aceita  
-   </td>  
-   <td>Raça Incomum não aceita  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>  
-   </td>  
-   <td>Deficiência Física  
-   </td>  
-  </tr>  
-</table>  
-  
-  
-<h2></h2>  
-  
-  
-<h2 id="ficha-de-personagem">Ficha de Personagem</h2>  
-  
-  
-  
-<table>  
-  <tr>  
-   <td>Nome  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Jogador  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Classe  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-</table>  
-  
-  
-  
-<table>  
-  <tr>  
-   <td>  
-   </td>  
-   <td><em>Nível</em>  
-   </td>  
-   <td>  
-   </td>  
-   <td><em>Nível</em>  
-   </td>  
-   <td>  
-   </td>  
-   <td><em>Nível</em>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td><strong>Caminho do Corpo</strong>  
-   </td>  
-   <td>  
-   </td>  
-   <td><strong>Caminho da Mente</strong>  
-   </td>  
-   <td>  
-   </td>  
-   <td><strong>Caminho do Espírito</strong>  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td><strong>Força</strong>  
-   </td>  
-   <td>  
-   </td>  
-   <td><strong>Inteligência</strong>  
-   </td>  
-   <td>  
-   </td>  
-   <td><strong>Vontade</strong>  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Ataque Corporal  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Arremesso  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Manip. de Peso  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td><strong>Destreza</strong>  
-   </td>  
-   <td>  
-   </td>  
-   <td><strong>Percepção</strong>  
-   </td>  
-   <td>  
-   </td>  
-   <td><strong>Presença</strong>  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Agilidade  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>Empatia  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Precisão  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>Intimidação  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Reflexo  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>Liderança  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td><strong>Físico</strong>  
-   </td>  
-   <td>  
-   </td>  
-   <td><strong>Sabedoria</strong>  
-   </td>  
-   <td>  
-   </td>  
-   <td><strong>Fé</strong>  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Resistência  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Saúde  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>Aparência  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-</table>  
-  
-  
-  
-<table>  
-  <tr>  
-   <td>  
-   </td>  
-   <td><em>Inicial</em>  
-   </td>  
-   <td><em>Atual</em>  
-   </td>  
-   <td>  
-   </td>  
-   <td><em>Valor</em>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td><strong>Pontos de Vida</strong>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td><strong>Ataque à Curta Distância</strong>  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td><strong>Pontos de Magia</strong>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td><strong>Ataque à Longa Distância</strong>  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td><strong>Sanidade</strong>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td><strong>Defesa</strong>  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-</table>  
-  
-  
-  
-<table>  
-  <tr>  
-   <td><strong>Antecedentes</strong>  
-   </td>  
-   <td><em>Nível</em>  
-   </td>  
-   <td><strong>Armas e Equipamentos</strong>  
-   </td>  
-   <td><em>Mod<strong>.</strong></em>  
-   </td>  
-  </tr>  
-  <tr>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-   <td>  
-   </td>  
-  </tr>  
-</table>  
-  
-  
-<h2></h2>  
-  
-  
-<h2 id="glossário">Glossário</h2>
+### Regras Especiais
+
+Em alguns momentos a sorte interfere numa situação de combate. Falhas Críticas ou Sucesso Crítico pode ocorrer inesperadamente. Cabe então o mestre punir uma falha ou bonificar um Sucesso.
+
+<table>
+  <tr>
+   <td>
+    Situação
+   </td>
+   <td>
+    Resultado
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Falha Crítica
+   </td>
+   <td>
+    Caso seja obtido 1 na rolagem de dados role novamente o D6. \
+Caso seja obtivo o resultado 1 novamente houve uma falha crítica.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Sucesso Crítico
+   </td>
+   <td>
+    Caso seja obtido 6 na rolagem de dados role novamente o D6. \
+Caso seja obtivo o resultado 6 novamente houve uma sucesso crítico.
+   </td>
+  </tr>
+</table>
+
+## Testes
+
+Em algumas situações do jogo o Mestre pode solicitar algum teste envolvendo algum Atributo, Aprimoramento ou Perícia.
+
+Ao solicitar um Teste à um Jogador o Mestre deve definir que Atributo, Aprimoramento ou Perícia será testado e um valor numérico será atribuído. Este valor indica a **Dificuldade** necessário para obter sucesso nesse teste.
+
+Para cada nível no Atributo, Aprimoramento ou Perícia testada 1D6 será lançado se o valor de Dificuldade foi alcançado o personagem obteve sucesso na ação.
+
+### Definindo Dificuldades
+
+O mestre fará o máximo para ser justo no momento de definir à **Dificuldade **do teste. Porém para facilitar segue a tabela de ajuda:
+
+<table>
+  <tr>
+   <td><strong>Situação</strong>
+   </td>
+   <td>Muito Fácil
+   </td>
+   <td>Normal
+   </td>
+   <td>Difícil
+   </td>
+   <td>Muito Difícil
+   </td>
+   <td>Quase Impossível
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Dificuldade</strong>
+   </td>
+   <td>2
+   </td>
+   <td>3-4
+   </td>
+   <td>5-10
+   </td>
+   <td>11-15
+   </td>
+   <td>16-25
+   </td>
+  </tr>
+</table>
+
+### Testando o Caminho do Corpo
+
+Dois peronsagens querem derrubar uma pesada porta de madeira grossa. O mestre então solicita um teste de Força ao primeiro jogador. O mestre então determina que derrubar esta porta tem **Dificuldade** 10.
+
+**Situação 1: Atributo Insuficiente**
+
+O primeiro personagem possui Força1. Com este valor de Força ele não conseguirá, por meios normais obter sucesso, já que o máximo possível para a rolagem de dados é o valor 6. Esse personagem então teve fala no seu teste.
+
+**Situação 2: Atributo Suficiente**
+
+O segundo personagem possui Força3, rola então 3D6 e obtém 12 como resultado. A porta foi derrubada.
+
+**Situação 3: Insistindo no teste**
+
+O primeiro jogador, que possui Força1, decide que o personagem irá **insistir **no teste para obter sucesso. Para forçar um sucesso o personagem fará um esforço acima de suas capacidades para isso. **Insistir **no teste é permitido apenas para Atributos do Caminho do Corpo.
+
+Caso o Mestre autorize um **insistência**. Proceda assim:
+
+1. Role 1D6
+2. A partir do resultado obtido verifique quanto falta para alcançar o sucesso:
+    1. Dificuldade10
+    2. Resultado obtido 4
+    3. Falta para completar 6 (10-4=6)
+3. Use os Pontos de Vida do personagem para completar o valor necessário. Desconte 6 dos Pontos de Vida.
+
+**Situação 4: Usando objetos**
+
+O primeiro personagem com Força1 agora possui algum objeto que ajuda à realizar o seu teste. No caso o personagem possui um pé de cabra para forçar a porta. O mestre então atribui ao objeto um modificador para esse teste e no caso o mestre atribuiu Pé de Cabra2. Agora o personagem possui para esse teste uma Força3 e pode rolar 3D6 para realizar o teste.
+
+**Situação 5: Unindo forças**
+
+Dois personagens com Força1 decidem juntar forças para derrubar esta porta. Caso o mestre autorize, pode ser feita a soma das Forças para o teste. Então os personagens possuem, para derrubar a porta Força 2. E uma rolagem de 2D6 pode ser feita.
+
+**Stualção 6: Personagens incapazes de testar**
+
+Personagem que possui Força 0. Aqueles que possuem o atributo testado no nível  0 (zero), à critério do mestre obtém falha automática nos testes. Caso um teste seja permitido, eles rolam 1D6-2 (rola 1D6 e diminue 2 do resultado) e jamais podem **Insistir **no teste.
+
+### Testando o Caminho da Mente
+
+### Testando o Caminho do Espírito
+
+### Exemplo de Testes
+
+    **Corpo**
+
+*   Força _Derrubar uma porta_
+    *   Ataque corporal _Desmaiar um inimigo_
+    *   Arremesso _Lançar uma corda para alguém que está mais alto_
+    *   Manipulação de Peso 
+*   Destreza _Colocar uma linha na agulha_
+    *   Agilidade _Capturar um coelho_
+    *   Precisão _Acertar uma maçã com um dardo_
+    *   Reflexo _Evitar a queda de um jarro_ 
+*   Físico _Manter presa a respiração_
+    *   Resistência _Resistir à uma temperatura extrema_
+    *   Saúde _Resistir à veneno_
+    *   Aparência
+
+    **Mente**
+
+*   Inteligência _Conhecer a geografia local_
+*   Percepção _Lembrar do caminho de retorno de um labirinto, notar uma trava secreta_
+*   Sabedoria _Perceber uma mentira, conhecer a cultura local _
+
+    **Espírito**
+
+*   Vontade _Evitar um controle mental mágico_
+*   Presença _Reunir uma imensa multidão_
+    *   Empatia/Carisma _Fazer todos da platéia rirem_
+    *   Intimidação _Coseguir uma confissão_
+    *   Liderança_ Proferir um discurso impactante_
+*   Fé
+
+## Suplemento
+
+### Magia
+
+Magia é um elemento suplementar nesse Sistema e pode ser entendida e aplicada de diferentes formas. Entende-se como Magia qualquer invocação alheia à normalidade e que interfere na física do ambiente. Cada cenário pode adaptar as regras de magia ao seu modo, ela pode ser entendida como invocação de pores da natureza, poderes espirituais, psíquicos ou nascidas com o personagem.
+
+O objetivo desse sistema não é determinar o que é magia e muito menos exemplificar suas variadas formas e usos. Mestres, sinta-se à vontade para adaptar e acrescentar regras conforme a necessidade do seu cenário.
+
+#### Aprendendo e Usando Magia
+
+Qualquer personagem pode ser capaz de manifestar e fazer uso de magias porém ela é praticada com mais perfeição por quem prioriza o Caminho da Mente e em alguns Casos o Caminho do Espírito.
+
+Para aprender Mágicas o jogador deve comprar a Perícia necessária e especificar como será a utilização desta pelo seu personagem.
+
+<table>
+  <tr>
+   <td><strong>Perícias Mágicas</strong>
+   </td>
+   <td><strong>Requer.</strong>
+   </td>
+   <td><strong>Duração</strong>
+   </td>
+   <td><strong>Custo em PM</strong>
+   </td>
+   <td><strong>Exemplo</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Mágicas de Ataque Físico
+   </td>
+   <td>Inteligência
+   </td>
+   <td>Instantânea
+   </td>
+   <td>1PM por ataque
+   </td>
+   <td>Causa um ataque mágico com Valor de Ataque 3 e Dano 3
+   </td>
+  </tr>
+  <tr>
+   <td>Mágicas de Ataque Mental
+   </td>
+   <td>Sabedoria, Vontade
+   </td>
+   <td>Instantânea
+   </td>
+   <td>1PM por ataque
+   </td>
+   <td>Causa um ataque mágico mental com Valor de Ataque 3 e Dano 3
+   </td>
+  </tr>
+  <tr>
+   <td>Mágicas de Suporte
+   </td>
+   <td>Sabedoria
+   </td>
+   <td>Instantânea ou Curta
+   </td>
+   <td>1PM para cada modificador
+   </td>
+   <td>Bonifica todos os amigos com Dano +2
+   </td>
+  </tr>
+  <tr>
+   <td>Mágicas de Encantamento
+   </td>
+   <td>Percepção, Inteligência
+   </td>
+   <td>Longa ou Indefinida
+   </td>
+   <td>1PM para cada rolagem
+   </td>
+   <td>Trancar magicamente uma porta.
+   </td>
+  </tr>
+  <tr>
+   <td>Manipulação Elemental Mágica
+   </td>
+   <td>Inteligência
+   </td>
+   <td>Longa ou Indefinida
+   </td>
+   <td>1 PM por nível da manipulação
+   </td>
+   <td>Incendiar uma casa com fogo mágico. Criar um golem de areia.
+   </td>
+  </tr>
+  <tr>
+   <td>Mágicas de Controle
+   </td>
+   <td>Sabedoria, Vontade
+   </td>
+   <td>Longa ou Indefinida
+   </td>
+   <td>1PM para cada rolagem
+   </td>
+   <td>Paralisar oponentes hostis. Seduzir magicamente.
+   </td>
+  </tr>
+</table>
+
+#### Limitações para Magias
+
+*   A Nível máximo de uma Perícia Mágica nunca poderá ser maior do que o Atributo de menor valor requerido por ela. \
+ \
+Ex. Um Conjurador com Percepção 3 e Inteligência 1 possui a Perícia Mágicas de Encantamento. O nível máximo possível para essa perícia será Mágicas de Encantamento 1, limitado pela Inteligência 1 que é a perícia de menor valor requerido \
+.
+*   O máximo de Pontos de Magia que pode ser gasto em cada mágica lançada é definido pelo Nível da Perícia Mágica em questão.
+
+#### Regras simplificadas para Perícias Mágicas
+
+##### Mágicas de Ataque Físico
+
+É a perícia que permite ao Conjurador realizar ataques físicos contra um alvo. Mágicas de Ataque podem se utilizar de qualquer elemento da natureza ou magia bruta, porém não podem ser manipuladas, moldadas ou sustentadas por mais que alguns rápidos instantes.
+
+Realizar um Ataque Mágico Físico proceda assim: O Valor de Ataque será 1D6 + modificador. Gaste 1PM para cada modificador no Valor de Ataque. Deve ser acrescentado pelo menos 1 modificador por Ataque Mágico Físico. O modificador do Valor de Ataque será no máximo igual ao nível da Perícia Mágica de Ataque.
+
+##### Mágicas de Ataque Mental
+
+Perícia que permite ao Conjurador realizar terríveis ataques à mente do alvo. Mágicas de Ataque Mental são invisíveis para quem assiste, porém o alvo sabe que algo de errado está acontecendo com a sua mente.
+
+Ao realizar um Ataque Mágico Mental proceda assim: O Valor de Ataque será 1D6 + modificador desta perícia. Gaste 1PM para cada modificador no Valor de Ataque. Deve ser acrescentado pelo menos 1 modificador por Ataque Mágico Mental. O modificador do Valor de Ataque será no máximo igual ao nível da Perícia Mágica de Ataque.
+
+O Valor de Defesa do Alvo será calculado do seguinte modo: 1D6 + Vontade + Fé. O Dano recebido pelo Alvo será descontado da sua Sanidade. Quando um personagem não possuir nenhum ponto de Sanidade proceda normalmente com as regras de Sanidade.
+
+##### Mágicas de Suporte
+
+Permite o Conjurador oferecer apoio a auxílio ao seu grupo de companheiros. Para acada modificador que ele acrescentar ou diminuir e para cada alvo desconte 1 Ponto de Magia.
+
+O personagem pode, à sua vontade bonificar ou penalizar o alvo com modificadores positivos ou negativos. O bônus/penalidade infringida ao alvo pode alcançar qualquer Atributo/Aprimoramento ou Perícia do alvo.
+
+O bônus/penalidade imposto ao alvo duram enquanto o Conjurador manter contato visual com o alvo cessando alguns segundos depois.
+
+_Observação_: Mágicas de Suporte permite realizar curas mágicas. Para realizar a cura de um alvo role 1D6 e some aos PV do alvo. Para cada rolagem feita desconte 1 Ponto de Magia.
+
+##### Mágicas de Encantamento
+
+Permitem o Conjurador interferir em itens, objetos, armas, equipamentos e quaisquer objetos que possuir contato físico no momento do Encantamento. Um Conjurador com essas habilidades tem a capacidade de, magicamente, modificar itens ao seu bel prazer e também cancelar Encantamentos feitos por outros Conjuradores.
+
+Para realizar um encantamento o Conjurador precisa de algum tempo e concentração. Não pode estar em combate ou situações de stress.
+
+Para Encantar permanentemente um objeto, ou seja, criar um item mágico com modificadores positivos ou negativos, o Conjurador doa permanentemente seus PMs ao objeto para cada modificador que ele acescentar ou tirar.
+
+Para Encantar temporariamente algum objeto, como por exemplo, trancar magicamente uma porta, o Conjurador rola 1D6 para cada PM gasto. Esse valor será o Poder Mágico do objeto. 
+
+Para cancelar um Encantamento permante o Conjurador deve doar seus PMs permantemente para cada modificador aumentado ou diminuído do objeto. Antes de realizar a mágica o Conjurador sabe exatamente quantos PMs ele vai doar.
+
+Para cancelar um Encantamento temporário o Conjurador deve gastar 1 PM para cada rolagem de dados até alcançar o valor numérico do Poder Mágico do objeto.
+
+É possível _forçar _um objeto mágico com força bruta, como por exemplo tentar abrir uma porta trancada magicamente.. Para realizar essa ação o jogador realizar um teste, a Dificuldade terá o valor do Poder Mágico do Objeto. Porem o Atributo, aprimoramente ou Perícia testada terá um redução de 1D6 no teste.
+
+Por exemplo. Uma espada fincada magicamente numa pedra. A Encantamento possui Poder Mágico20, logo o teste terá Dificuldade20. O Bárbaro com Força4 que lançaria 4D6 para realizar um teste de Força sofre a penalidade de 1D6 na realização do teste, logo, lançará 3D6. Este deverá alcançar um resultado 20 no lançamento de dados para forçar a espada do lugar.
+
+##### Manipulação Elemental Mágica
+
+O conjurador tem o poder de modificar, criar e manipular elementos da natureza. Manipulações Elementais não são eficazes para causar dano à um alvo.
+
+Para cada manipulação elemental simples o Conjurador gasta 1 PM. Uma manipulação simples pode ser por exemplo fazer a água se mover ou o vento soprar mais forte.
+
+Para cada manipulação elemental complexa o Conjurador gasta 2 PM. Uma manipulação complexa é entendida como gerar uma pequeno furacão que move objetos grandes ou moldar rochas.
+
+Para criar um criatura Elemental o Cojurador gasta 1 PM para cada Atributo do Elemental, este por sua vez possui apenas Atributos do Caminho do Corpo. Esta criatura permanece sob controle do Conjurador e pode, inclusive, combater e possui uma semi-consciência até ser destruida (zero PVs).
+
+##### Mágica de Controle
+
+O Conjurador pode afetar a mente e o espírito de um alvo inteligente.
+
+O Conjurador poder tentar realizar qualquer ação mental (medo, amor, confiança, por ex.) sobre o alvo, porém deve possuir Vontade superior ao alvo. O custo dessa açao é de 1PM. Caso não possua Vontade superior à do alvo a mágica falha instantaneamente.
+
+Se o alvo souber das intenções do mago ou não concordar com o resultado do Controle é possível tentar impedir. Caso o Conjurador tente ainda assim forçar o Controle, deve para isso gastar 1PM para fazer uma rolagem 1D6+Nivel de Mágica de Controle. O Alvo do controle rola 1D6+Vontade.
+
+O Controle persiste até que o alvo tenha algum motivo para desacreditar na veracidade do Controle.
+
+Por ex. O conjurador executa o Controla do alvo fazendo este ter um grande medo do Conjurador. O Controle cessará na primeira derrota ou demonstração de fraqueza do Conjurado na presença do alvo.
+
+### Antecedentes
+
+Alguns personagens, antes de participar de alguma aventura, provavelmente já possuem um passado, uma história e uma vida pregressa interessante. E o jogadores pode, de acordo com a história do personagem, apimentar esses detalhes que influenciem o presente.
+
+Os Antecentes mensuram aspectos sociais do personsagem, que estão alheio a sua vontade e controle, podendo se intensificar ou desaparecer com o decorrer da sua vida.
+
+Os Antecedentes devem ser definidos no momento da criação do personagem ser poder ser modificado à vontade do jogador.
+
+#### Regras para Antecedentes
+
+*   Tome nota do menor valor de Caminho de Evolução do Personagem (entre Corpo, Mente e Espírito), este vai ser o valor em **Pontos de Antecedentes** do personagem.
+*   O Pontos “gastos” num determinado Antecedente não possui máximo definido. Ou seja, o jogador pode gastar todos os seus pontos em apenas um Antecedente.
+*   Cada nível em um Bom Antecedente custa 1 Ponto e igualmente cada nível num Mau Antecedente concede 1 Ponto.
+*   Niveis em alguem Mau Antecedente jamais pode aumentar seus Pontos de Antecedentes acima do dobro dos pontos iniciais.
+    *   Ex. O personagem tem como Caminho de menor valor Corpo 3, logo jogador possui 3 Pontos de Antecedentes disponíveis. O jogador então compra Má fama 2 e Inimigo 1 concedendo ao personagem mais 3 Pontos de Antecedentes, agora o personagem possui um total de 6 Pontos de Antecedentes, o máximo permitido para ele.
+*   Não é permitido possuir Antecedentes antagônicos. Por ex. Pobreza e Riqueza.
+
+Segue algumas sugestões de Antecedentes:
+
+<table>
+  <tr>
+   <td><strong>Bons Antecedentes</strong>
+   </td>
+   <td><strong>Maus Antecedentes</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Boa Fama
+   </td>
+   <td>Má Fama
+   </td>
+  </tr>
+  <tr>
+   <td>Aliado
+   </td>
+   <td>Inimigo
+   </td>
+  </tr>
+  <tr>
+   <td>Recursos Financeiros
+   </td>
+   <td>Falta de Recursos Financeiros
+   </td>
+  </tr>
+  <tr>
+   <td>Raça Incomum bem aceita
+   </td>
+   <td>Raça Incomum não aceita
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Deficiência Física
+   </td>
+  </tr>
+</table>
+
+## Ficha de Personagem
+
+<table>
+  <tr>
+   <td>Nome
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Jogador
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Classe
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td><em>Nível</em>
+   </td>
+   <td>
+   </td>
+   <td><em>Nível</em>
+   </td>
+   <td>
+   </td>
+   <td><em>Nível</em>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Caminho do Corpo</strong>
+   </td>
+   <td>
+   </td>
+   <td><strong>Caminho da Mente</strong>
+   </td>
+   <td>
+   </td>
+   <td><strong>Caminho do Espírito</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Força</strong>
+   </td>
+   <td>
+   </td>
+   <td><strong>Inteligência</strong>
+   </td>
+   <td>
+   </td>
+   <td><strong>Vontade</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Ataque Corporal
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Arremesso
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Manip. de Peso
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Destreza</strong>
+   </td>
+   <td>
+   </td>
+   <td><strong>Percepção</strong>
+   </td>
+   <td>
+   </td>
+   <td><strong>Presença</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Agilidade
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>Empatia
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Precisão
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>Intimidação
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Reflexo
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>Liderança
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Físico</strong>
+   </td>
+   <td>
+   </td>
+   <td><strong>Sabedoria</strong>
+   </td>
+   <td>
+   </td>
+   <td><strong>Fé</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Resistência
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Saúde
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Aparência
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td><em>Inicial</em>
+   </td>
+   <td><em>Atual</em>
+   </td>
+   <td>
+   </td>
+   <td><em>Valor</em>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Pontos de Vida</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><strong>Ataque à Curta Distância</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Pontos de Magia</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><strong>Ataque à Longa Distância</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Sanidade</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><strong>Defesa</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+   <td><strong>Antecedentes</strong>
+   </td>
+   <td><em>Nível</em>
+   </td>
+   <td><strong>Armas e Equipamentos</strong>
+   </td>
+   <td><em>Mod<strong>.</strong></em>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+## Glossário
+
+XX
