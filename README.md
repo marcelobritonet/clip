@@ -407,34 +407,12 @@ Para resolver uma situação de combate proceda assim:
 
 Em alguns momentos a sorte interfere numa situação de combate. Falhas Críticas ou Sucesso Crítico pode ocorrer inesperadamente. Cabe então o mestre punir uma falha ou bonificar um Sucesso.
 
-<table>
-  <tr>
-   <td>
-    Situação
-   </td>
-   <td>
-    Resultado
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Falha Crítica
-   </td>
-   <td>
-    Caso seja obtido 1 na rolagem de dados role novamente o D6. \
-Caso seja obtivo o resultado 1 novamente houve uma falha crítica.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Sucesso Crítico
-   </td>
-   <td>
-    Caso seja obtido 6 na rolagem de dados role novamente o D6. \
-Caso seja obtivo o resultado 6 novamente houve uma sucesso crítico.
-   </td>
-  </tr>
-</table>
+|Situação|Resultado|
+|--- |--- |
+|Falha Crítica|Caso seja obtido 1 na rolagem de dados role novamente o D6. \
+Caso seja obtivo o resultado 1 novamente houve uma falha crítica.|
+|Sucesso Crítico|Caso seja obtido 6 na rolagem de dados role novamente o D6. \
+Caso seja obtivo o resultado 6 novamente houve uma sucesso crítico.|
 
 ## Testes
 
@@ -448,36 +426,9 @@ Para cada nível no Atributo, Aprimoramento ou Perícia testada 1D6 será lança
 
 O mestre fará o máximo para ser justo no momento de definir à **Dificuldade **do teste. Porém para facilitar segue a tabela de ajuda:
 
-<table>
-  <tr>
-   <td><strong>Situação</strong>
-   </td>
-   <td>Muito Fácil
-   </td>
-   <td>Normal
-   </td>
-   <td>Difícil
-   </td>
-   <td>Muito Difícil
-   </td>
-   <td>Quase Impossível
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Dificuldade</strong>
-   </td>
-   <td>2
-   </td>
-   <td>3-4
-   </td>
-   <td>5-10
-   </td>
-   <td>11-15
-   </td>
-   <td>16-25
-   </td>
-  </tr>
-</table>
+|Situação|Muito Fácil|Normal|Difícil|Muito Difícil|Quase Impossível|
+|--- |--- |--- |--- |--- |--- |
+|Dificuldade|2|3-4|5-10|11-15|16-25|
 
 ### Testando o Caminho do Corpo
 
@@ -566,92 +517,14 @@ Qualquer personagem pode ser capaz de manifestar e fazer uso de magias porém el
 
 Para aprender Mágicas o jogador deve comprar a Perícia necessária e especificar como será a utilização desta pelo seu personagem.
 
-<table>
-  <tr>
-   <td><strong>Perícias Mágicas</strong>
-   </td>
-   <td><strong>Requer.</strong>
-   </td>
-   <td><strong>Duração</strong>
-   </td>
-   <td><strong>Custo em PM</strong>
-   </td>
-   <td><strong>Exemplo</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Mágicas de Ataque Físico
-   </td>
-   <td>Inteligência
-   </td>
-   <td>Instantânea
-   </td>
-   <td>1PM por ataque
-   </td>
-   <td>Causa um ataque mágico com Valor de Ataque 3 e Dano 3
-   </td>
-  </tr>
-  <tr>
-   <td>Mágicas de Ataque Mental
-   </td>
-   <td>Sabedoria, Vontade
-   </td>
-   <td>Instantânea
-   </td>
-   <td>1PM por ataque
-   </td>
-   <td>Causa um ataque mágico mental com Valor de Ataque 3 e Dano 3
-   </td>
-  </tr>
-  <tr>
-   <td>Mágicas de Suporte
-   </td>
-   <td>Sabedoria
-   </td>
-   <td>Instantânea ou Curta
-   </td>
-   <td>1PM para cada modificador
-   </td>
-   <td>Bonifica todos os amigos com Dano +2
-   </td>
-  </tr>
-  <tr>
-   <td>Mágicas de Encantamento
-   </td>
-   <td>Percepção, Inteligência
-   </td>
-   <td>Longa ou Indefinida
-   </td>
-   <td>1PM para cada rolagem
-   </td>
-   <td>Trancar magicamente uma porta.
-   </td>
-  </tr>
-  <tr>
-   <td>Manipulação Elemental Mágica
-   </td>
-   <td>Inteligência
-   </td>
-   <td>Longa ou Indefinida
-   </td>
-   <td>1 PM por nível da manipulação
-   </td>
-   <td>Incendiar uma casa com fogo mágico. Criar um golem de areia.
-   </td>
-  </tr>
-  <tr>
-   <td>Mágicas de Controle
-   </td>
-   <td>Sabedoria, Vontade
-   </td>
-   <td>Longa ou Indefinida
-   </td>
-   <td>1PM para cada rolagem
-   </td>
-   <td>Paralisar oponentes hostis. Seduzir magicamente.
-   </td>
-  </tr>
-</table>
+|Perícias Mágicas|Requer.|Duração|Custo em PM|Exemplo|
+|--- |--- |--- |--- |--- |
+|Mágicas de Ataque Físico|Inteligência|Instantânea|1PM por ataque|Causa um ataque mágico com Valor de Ataque 3 e Dano 3|
+|Mágicas de Ataque Mental|Sabedoria, Vontade|Instantânea|1PM por ataque|Causa um ataque mágico mental com Valor de Ataque 3 e Dano 3|
+|Mágicas de Suporte|Sabedoria|Instantânea ou Curta|1PM para cada modificador|Bonifica todos os amigos com Dano +2|
+|Mágicas de Encantamento|Percepção, Inteligência|Longa ou Indefinida|1PM para cada rolagem|Trancar magicamente uma porta.|
+|Manipulação Elemental Mágica|Inteligência|Longa ou Indefinida|1 PM por nível da manipulação|Incendiar uma casa com fogo mágico. Criar um golem de areia.|
+|Mágicas de Controle|Sabedoria, Vontade|Longa ou Indefinida|1PM para cada rolagem|Paralisar oponentes hostis. Seduzir magicamente.|
 
 #### Limitações para Magias
 
@@ -746,340 +619,55 @@ Os Antecedentes devem ser definidos no momento da criação do personagem ser po
 
 Segue algumas sugestões de Antecedentes:
 
-<table>
-  <tr>
-   <td><strong>Bons Antecedentes</strong>
-   </td>
-   <td><strong>Maus Antecedentes</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Boa Fama
-   </td>
-   <td>Má Fama
-   </td>
-  </tr>
-  <tr>
-   <td>Aliado
-   </td>
-   <td>Inimigo
-   </td>
-  </tr>
-  <tr>
-   <td>Recursos Financeiros
-   </td>
-   <td>Falta de Recursos Financeiros
-   </td>
-  </tr>
-  <tr>
-   <td>Raça Incomum bem aceita
-   </td>
-   <td>Raça Incomum não aceita
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Deficiência Física
-   </td>
-  </tr>
-</table>
+|Bons Antecedentes|Maus Antecedentes|
+|--- |--- |
+|Boa Fama|Má Fama|
+|Aliado|Inimigo|
+|Recursos Financeiros|Falta de Recursos Financeiros|
+|Raça Incomum bem aceita|Raça Incomum não aceita|
+||Deficiência Física|
 
 ## Ficha de Personagem
 
-<table>
-  <tr>
-   <td>Nome
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Jogador
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Classe
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+|||
+|--- |--- |
+|Nome||
+|Jogador||
+|Classe||
 
-<table>
-  <tr>
-   <td>
-   </td>
-   <td><em>Nível</em>
-   </td>
-   <td>
-   </td>
-   <td><em>Nível</em>
-   </td>
-   <td>
-   </td>
-   <td><em>Nível</em>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Caminho do Corpo</strong>
-   </td>
-   <td>
-   </td>
-   <td><strong>Caminho da Mente</strong>
-   </td>
-   <td>
-   </td>
-   <td><strong>Caminho do Espírito</strong>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Força</strong>
-   </td>
-   <td>
-   </td>
-   <td><strong>Inteligência</strong>
-   </td>
-   <td>
-   </td>
-   <td><strong>Vontade</strong>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Ataque Corporal
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Arremesso
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Manip. de Peso
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Destreza</strong>
-   </td>
-   <td>
-   </td>
-   <td><strong>Percepção</strong>
-   </td>
-   <td>
-   </td>
-   <td><strong>Presença</strong>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Agilidade
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Empatia
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Precisão
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Intimidação
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Reflexo
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Liderança
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Físico</strong>
-   </td>
-   <td>
-   </td>
-   <td><strong>Sabedoria</strong>
-   </td>
-   <td>
-   </td>
-   <td><strong>Fé</strong>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Resistência
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Saúde
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Aparência
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
 
-<table>
-  <tr>
-   <td>
-   </td>
-   <td><em>Inicial</em>
-   </td>
-   <td><em>Atual</em>
-   </td>
-   <td>
-   </td>
-   <td><em>Valor</em>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Pontos de Vida</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><strong>Ataque à Curta Distância</strong>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Pontos de Magia</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><strong>Ataque à Longa Distância</strong>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Sanidade</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><strong>Defesa</strong>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+||Nível||Nível||Nível|
+|--- |--- |--- |--- |--- |--- |
+|Caminho do Corpo||Caminho da Mente||Caminho do Espírito||
+|Força||Inteligência||Vontade||
+|Ataque Corporal||||||
+|Arremesso||||||
+|Manip. de Peso||||||
+|Destreza||Percepção||Presença||
+|Agilidade||||Empatia||
+|Precisão||||Intimidação||
+|Reflexo||||Liderança||
+|Físico||Sabedoria||Fé||
+|Resistência||||||
+|Saúde||||||
+|Aparência||||||
 
-<table>
-  <tr>
-   <td><strong>Antecedentes</strong>
-   </td>
-   <td><em>Nível</em>
-   </td>
-   <td><strong>Armas e Equipamentos</strong>
-   </td>
-   <td><em>Mod<strong>.</strong></em>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+
+||Inicial|Atual||Valor|
+|--- |--- |--- |--- |--- |
+|Pontos de Vida|||Ataque à Curta Distância||
+|Pontos de Magia|||Ataque à Longa Distância||
+|Sanidade|||Defesa||
+
+|Antecedentes|Nível|Armas e Equipamentos|Mod.|
+|--- |--- |--- |--- |
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
 
 ## Glossário
 
