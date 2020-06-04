@@ -3,7 +3,7 @@
   
 _Um RGP Simples, básico e adaptável_  
   
-> O sistema ainda em versão de testes. Problemas, lacunas e falhas podem ocorrer. Caso queira relatar algum erro, dar alguma dica ou sugestão acesse [CONTRIBUTING.md](./CONTRIBUTING.md).  
+> O sistema ainda em versão de testes. Problemas, lacunas e falhas podem ocorrer. Caso queira relatar algum erro, dar alguma dica ou sugestão acesse as [regras de contribuição](./CONTRIBUTING.md).  
   
 ## Introdução  
   
