@@ -94,9 +94,9 @@ Cada **Atributo** permite acessar seus próprios **Aprimoramentos**. Esses Aprim
 | Caminho do Corpo  |   Caminho da Mente |  Caminho do Espírito  |  
 | ------------ | ------------ | ------------ |  
 | Atributo Força  | Atributo Inteligência  |  Atributo Vontade |  
-|  - Ataque Corporal |   |   |  
-|  - Arremesso |   |   |  
-|  - Manipulação de Peso | | | |  
+|  - Ataque Corporal | | |  
+|  - Arremesso | | |
+|  - Manipulação de Peso | | |  
   
 | Caminho do Corpo  |   Caminho da Mente |  Caminho do Espírito  |  
 | ------------ | ------------ | ------------ |  
@@ -108,9 +108,9 @@ Cada **Atributo** permite acessar seus próprios **Aprimoramentos**. Esses Aprim
 | Caminho do Corpo  |   Caminho da Mente |  Caminho do Espírito  |  
 | ------------ | ------------ | ------------ |  
 | Atributo Físico | Atributo Sabedoria | Atributo Fé |  
-|  - Resistência |   |   |  
-|  - Saúde |   |   |  
-|  - Aparência |   |   |  |  
+|  - Resistência | | |  
+|  - Saúde | | |  
+|  - Aparência | | | |  
   
 #### Limitações para o Caminho de Evolução do Personagem  
   
