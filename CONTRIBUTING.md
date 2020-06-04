@@ -4,10 +4,10 @@ O sistema ainda em versão de testes. Problemas, lacunas e falhas podem ocorrer.
 
 ## Editor de Markdown
 
-- https://stackedit.io/app#
+- [stackedit](https://stackedit.io/app#)
 
-- https://pandao.github.io/editor.md/en.html
+- [pandao](https://pandao.github.io/editor.md/en.html)
 
 Conversor table -> pipe notation
 
-- https://jmalarcon.github.io/markdowntables/
+- [markdowntables](https://jmalarcon.github.io/markdowntables/)
